@@ -13,4 +13,4 @@ Cada archivo sigue el siguiente formato:
 
 Favor de ver el primer release de este repo:
 
-https://github.com/DanyelMorales/noticias_bulk/releases/tag/v1.0.0
+https://github.com/DanyelMorales/coleccion_de_noticias_en_espanol/releases/tag/v1.1.0
