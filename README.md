@@ -10,3 +10,7 @@ Cada archivo sigue el siguiente formato:
 "PublishedDate":1575705600,
 "Keywords":[""]
 }
+
+Favor de ver el primer release de este repo:
+
+https://github.com/DanyelMorales/noticias_bulk/releases/tag/v1.0.0
