@@ -1,11 +1,11 @@
 # Articulos periodisticos en espa;ol
-Este repositorio almacena una gran cantidad de noticias en formato JSON, en lenguaje Epanol. Pueden ser utilizados para entrenar modelos de Machine Learning.
+Este repositorio contiene una colección extensa de noticias en formato JSON, en idioma español. Estos archivos pueden ser utilizados para entrenar modelos de Machine Learning.
 
-Cada archivo contiene el siguiente formato:
+Cada archivo sigue el siguiente formato:
 {
 "Id":""
 "Author":"",
-"Title":"Tituilo",
+"Title":"Titulo",
 "Content":"",
 "PublishedDate":1575705600,
 "Keywords":[""]
