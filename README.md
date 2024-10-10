@@ -25,6 +25,6 @@ Base de datos de SQLITE, puedes cargarla con https://sqliteonline.com/ y mirar e
 ![image](https://github.com/user-attachments/assets/401192e6-fe06-4596-94b7-005dfd23f1bb)
 
 
-Favor de ver el primer release de este repo:
+## femicide_clean_data.csv
 
-https://github.com/DanyelMorales/coleccion_de_noticias_en_espanol/releases/tag/v1.1.0
+Noticias sobre feminicidos extraidos del mapa de feminicidios de Maria Salguero
