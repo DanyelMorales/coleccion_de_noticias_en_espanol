@@ -1,4 +1,4 @@
-# Articulos periodisticos en espa;ol
+# Datasets de noticias en español
 Este repositorio contiene una colección extensa de noticias en formato JSON, en idioma español. Estos archivos pueden ser utilizados para entrenar modelos de Machine Learning.
 
 ## bulk1.zip
